@@ -6,7 +6,7 @@ This tool starts local uuBookKit using JSON files exported by <https://www.npmjs
 
 # How to use ?
 
-![Help](https://github.com/jiridudekusy/uubookkit-exporter/blob/master/doc/help.png?raw=true)
+![Help](https://github.com/jiridudekusy/uubookkit-local/blob/master/jdk_localbookkitg01_main-server/doc/help.png?raw=true)
 
 When server is started open <http://localhost:6221/jdk-localbookkitg01-main/0-0/> . The book structure with all pages should be visible in left menu. For each page you can view the content or switch to JSON source. 
 
