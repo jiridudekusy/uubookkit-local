@@ -1,0 +1,26 @@
+{
+  "{vendor}-{uuApp}-{uuSubApp}": {
+    "useCaseMap": {
+      "defaultUve": {
+        "realization": "index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "home": {
+        "realization": "index.html",
+        "httpMethod": "GET",
+        "type": "UVE"
+      },
+      "loadBook": {
+        "realization": "controllers/BookController.loadBook",
+        "httpMethod": ["GET"],
+        "type": "CMD"
+      },
+      "loadPage": {
+        "realization": "controllers/BookController.loadPage",
+        "httpMethod": ["GET"],
+        "type": "CMD"
+      }
+    }
+  }
+}

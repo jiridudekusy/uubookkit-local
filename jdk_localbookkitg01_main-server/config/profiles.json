@@ -1,0 +1,57 @@
+{
+  "{tid}-{asid}": {
+    "profileList": ["UuSubAppInstanceSysOwner"],
+    "permissionMap": {
+      "{uuSubAppInstanceSysOwner}": ["UuSubAppInstanceSysOwner"]
+    },
+    "useCaseMap": {
+      "sys/initAppWorkspace": ["UuSubAppInstanceSysOwner"],
+
+      "sys/getConfiguration": ["UuSubAppInstanceSysOwner"],
+      "sys/getEnvironment": ["UuSubAppInstanceSysOwner"],
+      "sys/getHealth": ["UuSubAppInstanceSysOwner"],
+      "sys/getStatistics": ["UuSubAppInstanceSysOwner"],
+      "sys/getUseCases": ["UuSubAppInstanceSysOwner"],
+      "sys/resetStatistics": ["UuSubAppInstanceSysOwner"]
+    }
+  },
+  "*": {
+    "profileList": ["Authorities", "Executives", "Alpha", "SysOwner", "Public"],
+    "useCaseMap": {
+      "sys/getAppWorkspace": ["Authorities", "SysOwner"],
+      "sys/setProfile": ["Authorities", "SysOwner"],
+      "sys/getProfile": ["Authorities", "SysOwner"],
+      "sys/listProfiles": ["Authorities", "SysOwner"],
+      "sys/createPermission": ["Authorities", "SysOwner"],
+      "sys/listPermissions": ["Authorities", "SysOwner"],
+      "sys/deletePermission": ["Authorities", "SysOwner"],
+      "sys/getLicenseOwner": ["Alpha", "Executives", "Authorities", "SysOwner"],
+      "sys/setAppWorkspaceConfig": ["Authorities", "SysOwner"],
+      "sys/getAppWorkspaceConfig": ["Authorities", "SysOwner"],
+      "sys/clearAppWorkspaceConfig": ["Authorities", "SysOwner"],
+
+      "uu-app-binarystore/createBinary": ["Alpha"],
+      "uu-app-binarystore/getBinary": ["Alpha"],
+      "uu-app-binarystore/getBinaryData": ["Alpha"],
+      "uu-app-binarystore/updateBinaryData": ["Alpha"],
+      "uu-app-binarystore/updateBinary": ["Alpha"],
+      "uu-app-binarystore/deleteBinary": ["Alpha"],
+      "uu-app-binarystore/listBinaries": ["Alpha"],
+      "uu-app-binarystore/getBinaryVersion": ["Alpha"],
+      "uu-app-binarystore/updateBinaryVersion": ["Alpha"],
+      "uu-app-binarystore/getBinaryVersionData": ["Alpha"],
+      "uu-app-binarystore/deleteBinaryVersion": ["Alpha"],
+      "uu-app-binarystore/listBinaryVersions": ["Alpha"],
+
+      "echo": ["Public"],
+
+      "deleteBook": ["Alpha"],
+      "createBook": ["Alpha"],
+      "getBook": ["Alpha"],
+      "listBooks": ["Alpha"],
+
+      "createImage": ["Alpha"],
+      "getImage": ["Alpha"]
+    }
+  }
+}

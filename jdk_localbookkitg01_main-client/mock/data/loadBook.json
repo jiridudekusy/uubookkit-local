@@ -1,0 +1,1532 @@
+{
+  "id": "5a141b295e031b0005df0120",
+  "uuAppProfileAuthorities": "ues:[118500965363973101]:[80220386668644205]",
+  "name": {
+    "en": "UAF uuApp Designer",
+    "cs": "UAF uuApp Designer"
+  },
+  "state": "active",
+  "languages": [
+    "cs"
+  ],
+  "intro": {
+    "cs": "<uu5string/>Knihu nelze zobrazit, pokud chcete knihu zpřístupnit, ....",
+    "en": "<uu5string/>You do not have access to this book, if you want to access the book, follow the instructions.."
+  },
+  "textPageTested": {
+    "en": "<uu5string/>\\n<UU5.Bricks.Lsi>\\n  <UU5.Bricks.Lsi.Item language=\\\"cs\\\">\\n    <UuDocKit.Bricks.BlockWarning>Stránka je v testovacím režimu.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n  <UU5.Bricks.Lsi.Item language=\\\"en\\\">\\n    <UuDocKit.Bricks.BlockWarning>The page is in test mode.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n</UU5.Bricks.Lsi>",
+    "cs": "<uu5string/>\\n<UU5.Bricks.Lsi>\\n  <UU5.Bricks.Lsi.Item language=\\\"cs\\\">\\n    <UuDocKit.Bricks.BlockWarning>Stránka je v testovacím režimu.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n  <UU5.Bricks.Lsi.Item language=\\\"en\\\">\\n    <UuDocKit.Bricks.BlockWarning>The page is in test mode.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n</UU5.Bricks.Lsi>"
+  },
+  "textPageUnderConstruction": {
+    "en": "<uu5string/>\\n<UU5.Bricks.Lsi>\\n  <UU5.Bricks.Lsi.Item language=\\\"cs\\\">\\n    <UuDocKit.Bricks.BlockWarning>Stránka je v přípravě.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n  <UU5.Bricks.Lsi.Item language=\\\"en\\\">\\n    <UuDocKit.Bricks.BlockWarning>The page is under construction.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n</UU5.Bricks.Lsi>",
+    "cs": "<uu5string/>\\n<UU5.Bricks.Lsi>\\n  <UU5.Bricks.Lsi.Item language=\\\"cs\\\">\\n    <UuDocKit.Bricks.BlockWarning>Stránka je v přípravě.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n  <UU5.Bricks.Lsi.Item language=\\\"en\\\">\\n    <UuDocKit.Bricks.BlockWarning>The page is under construction.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n</UU5.Bricks.Lsi>"
+  },
+  "textPageNotFound": {
+    "en": "<uu5string/>\\n<UU5.Bricks.Lsi>\\n  <UU5.Bricks.Lsi.Item language=\\\"cs\\\">\\n    <UuDocKit.Bricks.BlockWarning>Stránka nebyla nalezena.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n  <UU5.Bricks.Lsi.Item language=\\\"en\\\">\\n    <UuDocKit.Bricks.BlockWarning>The page was not found.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n</UU5.Bricks.Lsi>",
+    "cs": "<uu5string/>\\n<UU5.Bricks.Lsi>\\n  <UU5.Bricks.Lsi.Item language=\\\"cs\\\">\\n    <UuDocKit.Bricks.BlockWarning>Stránka nebyla nalezena.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n  <UU5.Bricks.Lsi.Item language=\\\"en\\\">\\n    <UuDocKit.Bricks.BlockWarning>The page was not found.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n</UU5.Bricks.Lsi>"
+  },
+  "textPageClosed": {
+    "en": "<uu5string/>\\n<UU5.Bricks.Lsi>\\n  <UU5.Bricks.Lsi.Item language=\\\"cs\\\">\\n    <UuDocKit.Bricks.BlockWarning>Stránka je ukončena.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n  <UU5.Bricks.Lsi.Item language=\\\"en\\\">\\n    <UuDocKit.Bricks.BlockWarning>The page is closed.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n</UU5.Bricks.Lsi>",
+    "cs": "<uu5string/>\\n<UU5.Bricks.Lsi>\\n  <UU5.Bricks.Lsi.Item language=\\\"cs\\\">\\n    <UuDocKit.Bricks.BlockWarning>Stránka je ukončena.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n  <UU5.Bricks.Lsi.Item language=\\\"en\\\">\\n    <UuDocKit.Bricks.BlockWarning>The page is closed.</UuDocKit.Bricks.BlockWarning>\\n  </UU5.Bricks.Lsi.Item>\\n</UU5.Bricks.Lsi>"
+  },
+  "home": "home_page_TGA",
+  "awid": "d0e1f1a222e5413582464bbf1d0a9eed",
+  "sys": {
+    "cts": "2017-11-21T12:25:13.106Z",
+    "mts": "2018-06-11T09:55:11.009Z",
+    "rev": 369
+  },
+  "desc": {
+    "cs": "<uu5string/><UU5.Bricks.P>\n      Kniha <UU5.Bricks.Code>Aplikace Library - Dokumentace</UU5.Bricks.Code> je kompletní technickou dokumentací stejnojmenné aplikace. \n      Kniha má standardní strukturu předepsanou frameworkem <UU5.Bricks.LinkUuApp/> a obsahuje tedy Klíčové myšlenky a koncepty, Business model,\n      Strukturu aplikace, jednotlivé uuSubApp, popisy datových úložišť, uuCMD, uuVUC (uu5Uve), komponenty uživatelského vizuálního rozhraní.\n    </UU5.Bricks.P>\n    <UU5.Bricks.P>\n      Kniha je určena všem kompetentním osobám, které mají aplikaci <UU5.Bricks.Code>Library</UU5.Bricks.Code> v předmětu zájmu.\n      Zejména však těm, kteří se podílejí na vývoji a rozvoji aplikace.\n    </UU5.Bricks.P>",
+    "en": "<uu5string/>..."
+  },
+  "logos": null,
+  "useCustomMenu": false,
+  "primaryLanguage": "cs",
+  "menu": [
+    {
+      "label": {
+        "en": "Page",
+        "cs": "Vítejte"
+      },
+      "page": "home_page_TGA",
+      "indent": 0
+    },
+    {
+      "label": {
+        "cs": "Obsah"
+      },
+      "page": "28980359",
+      "indent": 0
+    },
+    {
+      "label": {
+        "cs": "Business model"
+      },
+      "page": "businessModel400",
+      "indent": 0
+    },
+    {
+      "label": {
+        "cs": "Struktura aplikace"
+      },
+      "page": "15237917",
+      "indent": 0
+    },
+    {
+      "label": {
+        "cs": "uuSubApp - store"
+      },
+      "page": "97391493",
+      "indent": 0
+    },
+    {
+      "label": {
+        "cs": "Deprecated",
+        "en": "Deprecated"
+      },
+      "page": "14949060",
+      "indent": 0
+    },
+    {
+      "label": {
+        "cs": "Úvodní stránka",
+        "en": "Úvodní stránka"
+      },
+      "page": "WORK_102",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Workshop",
+        "en": "Workshop"
+      },
+      "page": "WORK_101",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Vítejte",
+        "en": "Vítejte"
+      },
+      "page": "92014440",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "Business Model",
+        "en": "Business Model"
+      },
+      "page": "WORK_103",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuAppStructure",
+        "en": "uuAppStructure"
+      },
+      "page": "73188492",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuSubApp - Main",
+        "en": "uuSubApp"
+      },
+      "page": "98390217",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuAppObejctStore",
+        "en": "uuAppObejctStore"
+      },
+      "page": "72096281",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuSchema uuNews",
+        "en": "uuSchema uuHomePage"
+      },
+      "page": "77618065",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuSchema Newspaper",
+        "en": "uuSchema Newspaper"
+      },
+      "page": "02887956",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuSchema Article",
+        "en": "uuSchema Article"
+      },
+      "page": "02028277",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuSchema Topic",
+        "en": "uuSchema Topic"
+      },
+      "page": "37772462",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuSchema Author",
+        "en": "uuSchema Author"
+      },
+      "page": "73627958",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD list",
+        "en": "uuCMD"
+      },
+      "page": "92976849",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD listArticle",
+        "en": "uuCMD ListArticle"
+      },
+      "page": "20033501",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD createArticle",
+        "en": "uuCMD createArticle"
+      },
+      "page": "06094815",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD updateArticle",
+        "en": "uuCMD updateArticle"
+      },
+      "page": "59854214",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD getArticle",
+        "en": "uuCMD getArticle"
+      },
+      "page": "14501985",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD deleteArticle",
+        "en": "uuCMD deleteArticle"
+      },
+      "page": "60816429",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD createNewspaper",
+        "en": "uuCMD createNewspaper"
+      },
+      "page": "62997022",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD updateNewspaper",
+        "en": "uuCMD updateNewspaper"
+      },
+      "page": "90685417",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD getNewspaper",
+        "en": "uuCMD getNewspaper"
+      },
+      "page": "31074582",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD deleteNewspaper",
+        "en": "uuCMD deleteNewspaper"
+      },
+      "page": "36663733",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD createAuthor",
+        "en": "uuCMD createAuthor"
+      },
+      "page": "19150358",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD updateAuthor",
+        "en": "uuCMD updateAuthor"
+      },
+      "page": "29049896",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD getAuthor",
+        "en": "uuCMD getAuthor"
+      },
+      "page": "96826062",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD deleteAuthor",
+        "en": "uuCMD deleteAuthor"
+      },
+      "page": "18883048",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD createTopic",
+        "en": "uuCMD createTopic"
+      },
+      "page": "08034799",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD updateTopic",
+        "en": "uuCMD updateTopic"
+      },
+      "page": "53502038",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD deleteTopic",
+        "en": "uuCMD deleteTopic"
+      },
+      "page": "13145152",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD getTopic",
+        "en": "uuCMD getTopic"
+      },
+      "page": "96932440",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD listTopic",
+        "en": "uuCMD ListTopic"
+      },
+      "page": "00263738",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD listAuthor",
+        "en": "uuCMD ListAuthor"
+      },
+      "page": "36125109",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD listNewspaper",
+        "en": "uuCMD ListNewspaper"
+      },
+      "page": "63820678",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD ListArticleByDate",
+        "en": "uuCMD ListArticleByDate"
+      },
+      "page": "58613601",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD listTopicByState",
+        "en": "uuCMD listTopicByState"
+      },
+      "page": "98153999",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD createMenuTile",
+        "en": "uuCMD createMenuTile"
+      },
+      "page": "00263720",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD getMenuTile",
+        "en": "uuCMD getMenuTile"
+      },
+      "page": "43533394",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD deleteMenuTile",
+        "en": "uuCMD deleteMenuTile"
+      },
+      "page": "58998735",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD updateMenuTile",
+        "en": "uuCMD updateMenuTile"
+      },
+      "page": "24053636",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD listTopicByAuthor",
+        "en": "uuCMD listTopicByAuthor"
+      },
+      "page": "46651107",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuCMD listNewspaperByAuthor",
+        "en": "uuCMD listNewspaperByAuthor"
+      },
+      "page": "31501208",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uu5Uve - News",
+        "en": "uu5Uve"
+      },
+      "page": "05376377",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuRoute News seznam",
+        "en": "uuRoute News seznam"
+      },
+      "page": "29383990",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuRoute newsMenu",
+        "en": "uuRoute newsMenu 1"
+      },
+      "page": "53760715",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuRoute articleList",
+        "en": "uuRoute newsArticleList"
+      },
+      "page": "42240243",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuRoute authorList",
+        "en": "uuRoute authorList"
+      },
+      "page": "48338860",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuRoute newspaperList",
+        "en": "uuRoute newspaperList"
+      },
+      "page": "91892060",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuRoute topic",
+        "en": "uuRoute topic"
+      },
+      "page": "74349516",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuRoute authorDetail",
+        "en": "uuRoute authorDetail"
+      },
+      "page": "53421123",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuRoute newspaperDetail",
+        "en": "uuRoute newspaperDetail"
+      },
+      "page": "62505124",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuRoute topicMenu",
+        "en": "uuRoute topicMenu"
+      },
+      "page": "13721845",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuKomponenta News seznam",
+        "en": "uuKomponenta News seznam"
+      },
+      "page": "23406847",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "uuKomponeneta ArticleListReady",
+        "en": "uuKomponeneta ArticleListReady"
+      },
+      "page": "14869778",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuKomponenta ArticleList",
+        "en": "uuKomponenta ArticleList"
+      },
+      "page": "30957834",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuKomponenta PanelArticle",
+        "en": "uuKomponenta PanelArticle"
+      },
+      "page": "PanelArtcileComp0001",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuKomponenta List",
+        "en": "uuKomponenta List"
+      },
+      "page": "91336499",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuKomponenta UU5.Select.Option",
+        "en": "uuKomponenta UU5.Select.Option"
+      },
+      "page": "56331082",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuKomponenta NewsMenuReady",
+        "en": "uuKomponenta"
+      },
+      "page": "92342319",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuKomponenta AuthorDetailReady",
+        "en": "uuKomponenta authorDetailReady"
+      },
+      "page": "70284815",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uuKomponenta AuthorDetail",
+        "en": "uuKomponenta AuthorDetail"
+      },
+      "page": "69429934",
+      "indent": 5
+    },
+    {
+      "label": {
+        "cs": "uu5 mixin",
+        "en": "uu5 mixin"
+      },
+      "page": "96592662",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "Mockup list",
+        "en": "Mockup list"
+      },
+      "page": "76496620",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "Mockup articleList",
+        "en": "Mockup articleList"
+      },
+      "page": "49679248",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "Mockup newsMenu",
+        "en": "Mockup newsMenu"
+      },
+      "page": "Work_1000001",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "Mockup topicMenu",
+        "en": "Mockup TopicMenu"
+      },
+      "page": "97990397",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "Mockup AuthorDetail",
+        "en": "Mockup AuthorDetail"
+      },
+      "page": "12341291",
+      "indent": 4
+    },
+    {
+      "label": {
+        "cs": "Zoog01",
+        "en": "Zoog01"
+      },
+      "page": "Zoog01",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "ZOO _101_",
+        "en": "ZOO _101_"
+      },
+      "page": "68309308",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "ZOO _101_ Business Model",
+        "en": "ZOO _101_ Business Model"
+      },
+      "page": "75287212",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "ZOO _1O1_ uAPP Struktura",
+        "en": "ZOO _1O1_ uAPP Struktura"
+      },
+      "page": "58576874",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuSubApp Main",
+        "en": "uuSubApp Main"
+      },
+      "page": "68360169",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuAppObejctStore Main",
+        "en": "uuAppObejctStore Main"
+      },
+      "page": "34565476",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuCMD updateAnimal()",
+        "en": "uuCMD updateAnimal()"
+      },
+      "page": "69790850",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuCMD deleteCoop",
+        "en": "uuCMD deleteCoop"
+      },
+      "page": "40309073",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuCMD listAnimals",
+        "en": "uuCMD listAnimals"
+      },
+      "page": "42210449",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "ZOO U5Ve",
+        "en": "ZOO U5Ve"
+      },
+      "page": "05239129",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuBML draw-praktické příklady ++",
+        "en": "uuBML draw-praktické příklady ++"
+      },
+      "page": "07861118",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uu5Component",
+        "en": "uu5Component"
+      },
+      "page": "uu5komponenta_zadani",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Komponenta",
+        "en": "Komponenta"
+      },
+      "page": "Komponenta_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "BusinessModel",
+        "en": "BusinessModel"
+      },
+      "page": "BusinessModelZoog01",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "Struktura aplikace",
+        "en": "Struktura aplikace"
+      },
+      "page": "Struktura_aplikace_Zoog01",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuSubAppmain",
+        "en": "uuSubAppmain"
+      },
+      "page": "uuSubApp_Zoog01",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuAppObjectStore",
+        "en": "uuAppObjectStore"
+      },
+      "page": "uuAppObjectStore_Zoog01",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuCMDAddKeeper",
+        "en": "uuCMDAddKeeper"
+      },
+      "page": "uuCMDAddKeeper",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuCMD-deleteCoop",
+        "en": "uuCMD-deleteCoop"
+      },
+      "page": "uuCMD_deleteCoop",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uu5UVE",
+        "en": "uu5UVE"
+      },
+      "page": "48726378",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "Mock up +++",
+        "en": "Mock up +++"
+      },
+      "page": "17778241",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Struktura aplikace ++",
+        "en": "Struktura aplikace ++"
+      },
+      "page": "59020686",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuSUBBApp - Main ++",
+        "en": "uuSUBBApp - Main"
+      },
+      "page": "92491984",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuAppObject store++",
+        "en": "uuAppObject store++"
+      },
+      "page": "57279886",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuCMD ++",
+        "en": "uuCMD ++"
+      },
+      "page": "76552802",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuCMD deleteProduct ++",
+        "en": "uuCMD deleteProduct ++"
+      },
+      "page": "72317126",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuCMD createOrder ++",
+        "en": "uuCMD createOrder ++"
+      },
+      "page": "26425927",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuBML DRAW",
+        "en": "uuBML DRAW"
+      },
+      "page": "50178231",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "UU5 TRY OUT",
+        "en": "UU5 TRY OUT"
+      },
+      "page": "79089983",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Aplikace Evidence Vozidel",
+        "en": ""
+      },
+      "page": "zadani",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Business Model",
+        "en": "Business Model"
+      },
+      "page": "Business_Model_zadani",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "Struktura aplikace",
+        "en": "Struktura aplikace"
+      },
+      "page": "Struktura_aplikace_zadani",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuSubApp",
+        "en": "uuSubApp"
+      },
+      "page": "uuSubApp_zadani",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuSubAPP Main",
+        "en": "uuSubAPP Main"
+      },
+      "page": "32436102",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuAppObjectStore",
+        "en": "uuAppObjectStore"
+      },
+      "page": "uuAppObjectStore_zadani",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuAppBinarytStore",
+        "en": "uuAppBinarytStore"
+      },
+      "page": "uuAppBinarytStore_zadani",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuCMD list",
+        "en": "uuCMD list"
+      },
+      "page": "18746677",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uuCMD - createOrder",
+        "en": "uuCMD - createOrder"
+      },
+      "page": "CreateLanding_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - create Client",
+        "en": "uuCMD - create Client"
+      },
+      "page": "uuCMD_zadani_1",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - createVehicle",
+        "en": "uuCMD - createVehicle"
+      },
+      "page": "uuCMD_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - createSTK",
+        "en": "uuCMD - createSTK"
+      },
+      "page": "createSTK_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - Create Repair",
+        "en": "uuCMD - Create Repair"
+      },
+      "page": "40344646",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - updateVehicle",
+        "en": "uuCMD - updateVehicle"
+      },
+      "page": "uuCMD_zadani_2",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - updateClient",
+        "en": "uuCMD - updateClient"
+      },
+      "page": "21008847",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - listVehicle",
+        "en": "uuCMD - listVehicle"
+      },
+      "page": "listVehicle_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - listProfit",
+        "en": "uuCMD - listProfit"
+      },
+      "page": "listProfit_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - listClient",
+        "en": "uuCMD - listClient"
+      },
+      "page": "listClient_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - listRepair",
+        "en": "uuCMD - listRepair"
+      },
+      "page": "listRepair_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - ListOrder",
+        "en": "uuCMD - ListOrder"
+      },
+      "page": "ListLanding_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - ListSTK",
+        "en": "uuCMD - ListSTK"
+      },
+      "page": "ListByMOT_1",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - getVehicle",
+        "en": "uuCMD - getVehicle"
+      },
+      "page": "getVehicle_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - getClient",
+        "en": "uuCMD - getClient"
+      },
+      "page": "getClient_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uuCMD - getOrder",
+        "en": "uuCMD - getOrder"
+      },
+      "page": "getLanding_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uu5Uve",
+        "en": "uu5Uve"
+      },
+      "page": "19492151",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uu5Uve Admin",
+        "en": "uu5Uve Admin"
+      },
+      "page": "uu5Uve_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uu5Uve Client",
+        "en": "uu5Uve Client"
+      },
+      "page": "93252023",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "Route list",
+        "en": "Route list"
+      },
+      "page": "Route_list_zadni",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uu5Route - Admin route",
+        "en": "uu5Route - Admin route"
+      },
+      "page": "uu5Route_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uu5Route - Client route",
+        "en": "uu5Route - Client route"
+      },
+      "page": "STK_route_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uu5 Components",
+        "en": "uu5 Components"
+      },
+      "page": "Components_zadani",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "uu5 Component - Login_admin",
+        "en": "uu5 Component - Login_admin"
+      },
+      "page": "Login_admin",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uu5 Component - Vehicle List (Client)",
+        "en": "uu5 Component - Vehicle List (Client)"
+      },
+      "page": "Client_component_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uu5Component  - Admin panel menu",
+        "en": "uu5Component  - Admin panel menu"
+      },
+      "page": "Admin_menu_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uu5Component  - Client ",
+        "en": "uu5Component  - Client "
+      },
+      "page": "Komponenta1",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uu5Component AdminMenu - Client",
+        "en": "uu5Component AdminMenu - Client"
+      },
+      "page": "65969839",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "Mock Up list",
+        "en": "Mock Up list"
+      },
+      "page": "MockUplist_list",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "Mock up Client",
+        "en": "Mock up Client"
+      },
+      "page": "Mock_up_zadani",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "Moc Up Admin Page ",
+        "en": "Moc Up Admin Page "
+      },
+      "page": "46061978",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "Moc Up Admin Page Login",
+        "en": "Moc Up Admin Login"
+      },
+      "page": "MocUpAdmin",
+      "indent": 3
+    },
+    {
+      "label": {
+        "cs": "uu5 mixin",
+        "en": "uu5 mixin"
+      },
+      "page": "uu5_mixin_zadani",
+      "indent": 2
+    },
+    {
+      "label": {
+        "cs": "Samostatna Prace",
+        "en": "Samostatna Prace"
+      },
+      "page": "Samostatna_Prace_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Úvodní stránka",
+        "en": "Basic information"
+      },
+      "page": "UVODNI_STRANKA_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Business model",
+        "en": "Business model"
+      },
+      "page": "Business_model_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuAppStructure",
+        "en": "uuAppStructure"
+      },
+      "page": "uuAppStructure_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuSubApp",
+        "en": "uuSubApp"
+      },
+      "page": "uuSubApp_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuAppObjectStore",
+        "en": "uuAppObjectStore"
+      },
+      "page": "uuAppObjectStore_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uuCMD",
+        "en": "uuCMD"
+      },
+      "page": "uuCMD_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uu5Uve++",
+        "en": "uu5Uve"
+      },
+      "page": "uu5Uve_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uu5Route",
+        "en": "uu5Route"
+      },
+      "page": "uu5Route_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uu5 komponenta",
+        "en": "uu5 komponenta"
+      },
+      "page": "uu5_komponenta_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "uu5 mixin",
+        "en": "uu5 mixin"
+      },
+      "page": "uu5_mixin_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Zkouska komponent uu5",
+        "en": "Test"
+      },
+      "page": "komponenty",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Komponenty",
+        "en": "Komponenty"
+      },
+      "page": "72799560",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Kmponenta",
+        "en": "Kmponenta"
+      },
+      "page": "38804283",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "Main - uuBinaryStore",
+        "cs": "Main - uuBinaryStore"
+      },
+      "page": "binaryStore",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uuCMD List",
+        "cs": "uuCMD List"
+      },
+      "page": "uuCMDList",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uuCMD - createBook",
+        "cs": "uuCMD - createBook"
+      },
+      "page": "createBook",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uuCMD - updateBook",
+        "cs": "uuCMD - updateBook"
+      },
+      "page": "updateBook",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uuCMD - deleteLocation",
+        "cs": "uuCMD - deleteLocation"
+      },
+      "page": "deleteLocation",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uuCMD - listBooks",
+        "cs": "uuCMD - listBooks"
+      },
+      "page": "listBooks",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "Main - uu5Uve List",
+        "cs": "Main - uu5Uve List"
+      },
+      "page": "uu5UveList",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uu5Uve Library",
+        "cs": "uu5Uve Library"
+      },
+      "page": "uu5UveLibrary",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uu5Uve Library seznam uu5Routes",
+        "cs": "uu5Uve Library seznam uu5Routes"
+      },
+      "page": "uu5RouteList",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uu5Route - location",
+        "cs": "uu5Route - location"
+      },
+      "page": "uu5RouteLocation",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "Main - uu5Component List",
+        "cs": "Main - uu5Component List"
+      },
+      "page": "uu5ComponentList",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uu5 komponenta - BookList",
+        "cs": "uu5 komponenta - BookList"
+      },
+      "page": "bookList",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "Business Model",
+        "cs": "Business Model"
+      },
+      "page": "businessModel",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "Struktura aplikace",
+        "cs": "Struktura aplikace"
+      },
+      "page": "uuAppStructure",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Vítejte",
+        "en": "Vítejte"
+      },
+      "page": "08449752",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Vítejte",
+        "en": "Welcome"
+      },
+      "page": "home",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "ST1",
+        "en": "ST1"
+      },
+      "page": "62058630",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "ST2",
+        "en": "ST2"
+      },
+      "page": "51363789",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "ST3",
+        "en": "ST3"
+      },
+      "page": "79480849",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "Main - uuObjectStore",
+        "cs": "Main - uuObjectStore"
+      },
+      "page": "objectStore",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "ST5",
+        "en": "ST5"
+      },
+      "page": "30328360",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "ST5555",
+        "en": "ST5555"
+      },
+      "page": "20475580",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Příklady komponent",
+        "en": "Příklady komponent"
+      },
+      "page": "4001",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "ST555323",
+        "en": "ST555323"
+      },
+      "page": "03874601",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "ST575",
+        "en": "ST575"
+      },
+      "page": "56923350",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Business model ++",
+        "en": "UUApps Design ++"
+      },
+      "page": "99204969",
+      "indent": 1
+    },
+    {
+      "label": {
+        "cs": "Skoleni Mockup",
+        "en": "Skoleni Mockup"
+      },
+      "page": "Skoleni_Mockup_1",
+      "indent": 1
+    },
+    {
+      "label": {
+        "en": "uuSubApp Main",
+        "cs": "uuSubApp Main"
+      },
+      "page": "uuSubAppMain",
+      "indent": 1
+    }
+  ],
+  "uuAppProfileList": [
+    "Authorities",
+    "Executives",
+    "Readers",
+    "TestReaders"
+  ],
+  "uuAppConfig": {
+    "id": "5a141b285e031b0005df011f",
+    "awid": "d0e1f1a222e5413582464bbf1d0a9eed",
+    "sys": {
+      "cts": "2017-11-21T12:25:12.643Z",
+      "mts": "2017-11-21T12:25:12.643Z",
+      "rev": 0
+    }
+  },
+  "uuAppErrorMap": {}
+}

@@ -1,0 +1,10 @@
+{
+  "name": "jdk_localbookkitg01_main",
+  "code": "JDK.LOCALBOOKKITG01.MAIN",
+  "namespace": "JdkLocalBookKit",
+  "version": "0.1.0",
+  "description": "Local uuBookKit which is able to serve book exported by uubookkit-exporter",
+  "vendor": "JDK",
+  "license": "MIT",
+  "template": "uu5-javascript-1.2.0"
+}

@@ -1,0 +1,1071 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WelcomeRow should match snapshot 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <WelcomeRow
+    className={null}
+    controlled={true}
+    disabled={false}
+    hidden={false}
+    icon="mdi-check"
+    id="id"
+    mainAttrs={null}
+    name={null}
+    noIndex={false}
+    parent={null}
+    ref_={null}
+    selected={false}
+    style={null}
+    textPadding="111px"
+    tooltip={null}
+  />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "checkGrammar": false,
+      "checkHighlight": false,
+      "checkSpaces": false,
+      "children": Array [
+        <Column
+          checkGrammar={false}
+          checkHighlight={false}
+          checkSpaces={false}
+          className="uudemoapp-welcomerow-iconcolumn"
+          colWidth="xs-12 s-2"
+          content={null}
+          controlled={true}
+          disabled={false}
+          dynamic={false}
+          footer={null}
+          header={null}
+          hidden={false}
+          id={null}
+          ignoreInnerHTML={false}
+          level={null}
+          mainAttrs={null}
+          mode="standard"
+          name={null}
+          nestingLevel={null}
+          noIndex={false}
+          noSpacing={false}
+          parent={null}
+          pureRender={false}
+          ref_={null}
+          selected={false}
+          style={null}
+          textCorrector={false}
+          tooltip={null}
+          underline={false}
+          width={null}
+        >
+          <Icon
+            className={null}
+            clickable={true}
+            controlled={true}
+            disabled={false}
+            hidden={false}
+            icon="mdi-check"
+            id={null}
+            mainAttrs={null}
+            name={null}
+            nestingLevel={null}
+            noIndex={false}
+            parent={null}
+            pureRender={false}
+            ref_={null}
+            selected={false}
+            style={
+              Object {
+                "marginBottom": "-111px",
+                "marginTop": "-111px",
+              }
+            }
+            tooltip={null}
+          />
+        </Column>,
+        <Column
+          checkGrammar={false}
+          checkHighlight={false}
+          checkSpaces={false}
+          className="uudemoapp-welcomerow-text"
+          colWidth="xs-12 s-10"
+          content={null}
+          controlled={true}
+          disabled={false}
+          dynamic={false}
+          footer={null}
+          header={null}
+          hidden={false}
+          id={null}
+          ignoreInnerHTML={false}
+          level={null}
+          mainAttrs={null}
+          mode="standard"
+          name={null}
+          nestingLevel={null}
+          noIndex={false}
+          noSpacing={false}
+          parent={null}
+          pureRender={false}
+          ref_={null}
+          selected={false}
+          style={null}
+          textCorrector={false}
+          tooltip={null}
+          underline={false}
+          width={null}
+        />,
+      ],
+      "className": "uudemoapp-welcomerow",
+      "content": null,
+      "controlled": true,
+      "disabled": false,
+      "display": "standard",
+      "dynamic": false,
+      "footer": null,
+      "header": null,
+      "hidden": false,
+      "id": "id-inner",
+      "ignoreInnerHTML": false,
+      "level": null,
+      "mainAttrs": Object {},
+      "mode": "standard",
+      "name": null,
+      "nestingLevel": null,
+      "noIndex": false,
+      "noSpacing": false,
+      "parent":  {
+        "__getLogParams": [Function],
+        "__isMounted": true,
+        "__styleStringToObject": [Function],
+        "_isMounted": true,
+        "buildMainAttrs": [Function],
+        "checkParentTagName": [Function],
+        "checkParentType": [Function],
+        "context": Object {},
+        "deselect": [Function],
+        "disable": [Function],
+        "enable": [Function],
+        "exportToObject": [Function],
+        "findDOMNode": [Function],
+        "getCallName": [Function],
+        "getClassName": [Function],
+        "getDefault": [Function],
+        "getDisabledClassName": [Function],
+        "getDisabledCover": [Function],
+        "getDisabledCoverTransparent": [Function],
+        "getError": [Function],
+        "getFullClassName": [Function],
+        "getHiddenClassName": [Function],
+        "getId": [Function],
+        "getIndex": [Function],
+        "getLSI": [Function],
+        "getLSIComponent": [Function],
+        "getLSIItem": [Function],
+        "getLSIValue": [Function],
+        "getLimit": [Function],
+        "getLsi": [Function],
+        "getLsiComponent": [Function],
+        "getLsiItem": [Function],
+        "getLsiValue": [Function],
+        "getMainAttrs": [Function],
+        "getMainPropsToPass": [Function],
+        "getMixinRegister": [Function],
+        "getName": [Function],
+        "getOpt": [Function],
+        "getParent": [Function],
+        "getParentByType": [Function],
+        "getProps": [Function],
+        "getSelectedClassName": [Function],
+        "getTagName": [Function],
+        "getTooltip": [Function],
+        "getUU5CommonBaseMixinProps": [Function],
+        "getUU5CommonBaseMixinPropsToPass": [Function],
+        "getUU5CommonElementaryMixinProps": [Function],
+        "getUU5CommonElementaryMixinPropsToPass": [Function],
+        "getWarning": [Function],
+        "hasMixin": [Function],
+        "hasUU5CommonBaseMixin": [Function],
+        "hasUU5CommonElementaryMixin": [Function],
+        "hide": [Function],
+        "id": "id",
+        "isDisabled": [Function],
+        "isHidden": [Function],
+        "isRendered": [Function],
+        "isSelected": [Function],
+        "mixinRegister": Array [
+          "UU5.Common.BaseMixin",
+          "UU5.Common.ElementaryMixin",
+        ],
+        "props": Object {
+          "className": null,
+          "controlled": true,
+          "disabled": false,
+          "hidden": false,
+          "icon": "mdi-check",
+          "id": "id",
+          "mainAttrs": null,
+          "name": null,
+          "noIndex": false,
+          "parent": null,
+          "ref_": null,
+          "selected": false,
+          "style": null,
+          "textPadding": "111px",
+          "tooltip": null,
+        },
+        "refs": Object {},
+        "registerMixin": [Function],
+        "replaceByHardSpace": [Function],
+        "select": [Function],
+        "setAsyncState": [Function],
+        "setDisabledValue": [Function],
+        "setHiddenValue": [Function],
+        "setSelectedValue": [Function],
+        "shouldRender": [Function],
+        "show": [Function],
+        "showError": [Function],
+        "showWarning": [Function],
+        "state": Object {
+          "disabled": false,
+          "hidden": false,
+          "selected": false,
+        },
+        "stringToObjectType": [Function],
+        "switchChildrenToBody": [Function],
+        "toggleDisabled": [Function],
+        "toggleHidden": [Function],
+        "toggleSelected": [Function],
+        "updater": Updater {
+          "_callbacks": Array [],
+          "_renderer": ReactShallowRenderer {
+            "_context": Object {},
+            "_element": <WelcomeRow
+              className={null}
+              controlled={true}
+              disabled={false}
+              hidden={false}
+              icon="mdi-check"
+              id="id"
+              mainAttrs={null}
+              name={null}
+              noIndex={false}
+              parent={null}
+              ref_={null}
+              selected={false}
+              style={null}
+              textPadding="111px"
+              tooltip={null}
+            />,
+            "_forcedUpdate": false,
+            "_instance": [Circular],
+            "_newState": null,
+            "_rendered": <Row
+              checkGrammar={false}
+              checkHighlight={false}
+              checkSpaces={false}
+              className="uudemoapp-welcomerow"
+              content={null}
+              controlled={true}
+              disabled={false}
+              display="standard"
+              dynamic={false}
+              footer={null}
+              header={null}
+              hidden={false}
+              id="id-inner"
+              ignoreInnerHTML={false}
+              level={null}
+              mainAttrs={Object {}}
+              mode="standard"
+              name={null}
+              nestingLevel={null}
+              noIndex={false}
+              noSpacing={false}
+              parent={[Circular]}
+              pureRender={false}
+              ref_={null}
+              selected={false}
+              style={null}
+              textCorrector={false}
+              tooltip={null}
+              underline={false}
+            >
+              <Column
+                checkGrammar={false}
+                checkHighlight={false}
+                checkSpaces={false}
+                className="uudemoapp-welcomerow-iconcolumn"
+                colWidth="xs-12 s-2"
+                content={null}
+                controlled={true}
+                disabled={false}
+                dynamic={false}
+                footer={null}
+                header={null}
+                hidden={false}
+                id={null}
+                ignoreInnerHTML={false}
+                level={null}
+                mainAttrs={null}
+                mode="standard"
+                name={null}
+                nestingLevel={null}
+                noIndex={false}
+                noSpacing={false}
+                parent={null}
+                pureRender={false}
+                ref_={null}
+                selected={false}
+                style={null}
+                textCorrector={false}
+                tooltip={null}
+                underline={false}
+                width={null}
+              >
+                <Icon
+                  className={null}
+                  clickable={true}
+                  controlled={true}
+                  disabled={false}
+                  hidden={false}
+                  icon="mdi-check"
+                  id={null}
+                  mainAttrs={null}
+                  name={null}
+                  nestingLevel={null}
+                  noIndex={false}
+                  parent={null}
+                  pureRender={false}
+                  ref_={null}
+                  selected={false}
+                  style={
+                    Object {
+                      "marginBottom": "-111px",
+                      "marginTop": "-111px",
+                    }
+                  }
+                  tooltip={null}
+                />
+              </Column>
+              <Column
+                checkGrammar={false}
+                checkHighlight={false}
+                checkSpaces={false}
+                className="uudemoapp-welcomerow-text"
+                colWidth="xs-12 s-10"
+                content={null}
+                controlled={true}
+                disabled={false}
+                dynamic={false}
+                footer={null}
+                header={null}
+                hidden={false}
+                id={null}
+                ignoreInnerHTML={false}
+                level={null}
+                mainAttrs={null}
+                mode="standard"
+                name={null}
+                nestingLevel={null}
+                noIndex={false}
+                noSpacing={false}
+                parent={null}
+                pureRender={false}
+                ref_={null}
+                selected={false}
+                style={null}
+                textCorrector={false}
+                tooltip={null}
+                underline={false}
+                width={null}
+              />
+            </Row>,
+            "_rendering": false,
+            "_updater": [Circular],
+          },
+        },
+      },
+      "pureRender": false,
+      "ref_": null,
+      "selected": false,
+      "style": null,
+      "textCorrector": false,
+      "tooltip": null,
+      "underline": false,
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "checkGrammar": false,
+          "checkHighlight": false,
+          "checkSpaces": false,
+          "children": <Icon
+            className={null}
+            clickable={true}
+            controlled={true}
+            disabled={false}
+            hidden={false}
+            icon="mdi-check"
+            id={null}
+            mainAttrs={null}
+            name={null}
+            nestingLevel={null}
+            noIndex={false}
+            parent={null}
+            pureRender={false}
+            ref_={null}
+            selected={false}
+            style={
+              Object {
+                "marginBottom": "-111px",
+                "marginTop": "-111px",
+              }
+            }
+            tooltip={null}
+          />,
+          "className": "uudemoapp-welcomerow-iconcolumn",
+          "colWidth": "xs-12 s-2",
+          "content": null,
+          "controlled": true,
+          "disabled": false,
+          "dynamic": false,
+          "footer": null,
+          "header": null,
+          "hidden": false,
+          "id": null,
+          "ignoreInnerHTML": false,
+          "level": null,
+          "mainAttrs": null,
+          "mode": "standard",
+          "name": null,
+          "nestingLevel": null,
+          "noIndex": false,
+          "noSpacing": false,
+          "parent": null,
+          "pureRender": false,
+          "ref_": null,
+          "selected": false,
+          "style": null,
+          "textCorrector": false,
+          "tooltip": null,
+          "underline": false,
+          "width": null,
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "className": null,
+            "clickable": true,
+            "controlled": true,
+            "disabled": false,
+            "hidden": false,
+            "icon": "mdi-check",
+            "id": null,
+            "mainAttrs": null,
+            "name": null,
+            "nestingLevel": null,
+            "noIndex": false,
+            "parent": null,
+            "pureRender": false,
+            "ref_": null,
+            "selected": false,
+            "style": Object {
+              "marginBottom": "-111px",
+              "marginTop": "-111px",
+            },
+            "tooltip": null,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "checkGrammar": false,
+          "checkHighlight": false,
+          "checkSpaces": false,
+          "className": "uudemoapp-welcomerow-text",
+          "colWidth": "xs-12 s-10",
+          "content": null,
+          "controlled": true,
+          "disabled": false,
+          "dynamic": false,
+          "footer": null,
+          "header": null,
+          "hidden": false,
+          "id": null,
+          "ignoreInnerHTML": false,
+          "level": null,
+          "mainAttrs": null,
+          "mode": "standard",
+          "name": null,
+          "nestingLevel": null,
+          "noIndex": false,
+          "noSpacing": false,
+          "parent": null,
+          "pureRender": false,
+          "ref_": null,
+          "selected": false,
+          "style": null,
+          "textCorrector": false,
+          "tooltip": null,
+          "underline": false,
+          "width": null,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "checkGrammar": false,
+        "checkHighlight": false,
+        "checkSpaces": false,
+        "children": Array [
+          <Column
+            checkGrammar={false}
+            checkHighlight={false}
+            checkSpaces={false}
+            className="uudemoapp-welcomerow-iconcolumn"
+            colWidth="xs-12 s-2"
+            content={null}
+            controlled={true}
+            disabled={false}
+            dynamic={false}
+            footer={null}
+            header={null}
+            hidden={false}
+            id={null}
+            ignoreInnerHTML={false}
+            level={null}
+            mainAttrs={null}
+            mode="standard"
+            name={null}
+            nestingLevel={null}
+            noIndex={false}
+            noSpacing={false}
+            parent={null}
+            pureRender={false}
+            ref_={null}
+            selected={false}
+            style={null}
+            textCorrector={false}
+            tooltip={null}
+            underline={false}
+            width={null}
+          >
+            <Icon
+              className={null}
+              clickable={true}
+              controlled={true}
+              disabled={false}
+              hidden={false}
+              icon="mdi-check"
+              id={null}
+              mainAttrs={null}
+              name={null}
+              nestingLevel={null}
+              noIndex={false}
+              parent={null}
+              pureRender={false}
+              ref_={null}
+              selected={false}
+              style={
+                Object {
+                  "marginBottom": "-111px",
+                  "marginTop": "-111px",
+                }
+              }
+              tooltip={null}
+            />
+          </Column>,
+          <Column
+            checkGrammar={false}
+            checkHighlight={false}
+            checkSpaces={false}
+            className="uudemoapp-welcomerow-text"
+            colWidth="xs-12 s-10"
+            content={null}
+            controlled={true}
+            disabled={false}
+            dynamic={false}
+            footer={null}
+            header={null}
+            hidden={false}
+            id={null}
+            ignoreInnerHTML={false}
+            level={null}
+            mainAttrs={null}
+            mode="standard"
+            name={null}
+            nestingLevel={null}
+            noIndex={false}
+            noSpacing={false}
+            parent={null}
+            pureRender={false}
+            ref_={null}
+            selected={false}
+            style={null}
+            textCorrector={false}
+            tooltip={null}
+            underline={false}
+            width={null}
+          />,
+        ],
+        "className": "uudemoapp-welcomerow",
+        "content": null,
+        "controlled": true,
+        "disabled": false,
+        "display": "standard",
+        "dynamic": false,
+        "footer": null,
+        "header": null,
+        "hidden": false,
+        "id": "id-inner",
+        "ignoreInnerHTML": false,
+        "level": null,
+        "mainAttrs": Object {},
+        "mode": "standard",
+        "name": null,
+        "nestingLevel": null,
+        "noIndex": false,
+        "noSpacing": false,
+        "parent":  {
+          "__getLogParams": [Function],
+          "__isMounted": true,
+          "__styleStringToObject": [Function],
+          "_isMounted": true,
+          "buildMainAttrs": [Function],
+          "checkParentTagName": [Function],
+          "checkParentType": [Function],
+          "context": Object {},
+          "deselect": [Function],
+          "disable": [Function],
+          "enable": [Function],
+          "exportToObject": [Function],
+          "findDOMNode": [Function],
+          "getCallName": [Function],
+          "getClassName": [Function],
+          "getDefault": [Function],
+          "getDisabledClassName": [Function],
+          "getDisabledCover": [Function],
+          "getDisabledCoverTransparent": [Function],
+          "getError": [Function],
+          "getFullClassName": [Function],
+          "getHiddenClassName": [Function],
+          "getId": [Function],
+          "getIndex": [Function],
+          "getLSI": [Function],
+          "getLSIComponent": [Function],
+          "getLSIItem": [Function],
+          "getLSIValue": [Function],
+          "getLimit": [Function],
+          "getLsi": [Function],
+          "getLsiComponent": [Function],
+          "getLsiItem": [Function],
+          "getLsiValue": [Function],
+          "getMainAttrs": [Function],
+          "getMainPropsToPass": [Function],
+          "getMixinRegister": [Function],
+          "getName": [Function],
+          "getOpt": [Function],
+          "getParent": [Function],
+          "getParentByType": [Function],
+          "getProps": [Function],
+          "getSelectedClassName": [Function],
+          "getTagName": [Function],
+          "getTooltip": [Function],
+          "getUU5CommonBaseMixinProps": [Function],
+          "getUU5CommonBaseMixinPropsToPass": [Function],
+          "getUU5CommonElementaryMixinProps": [Function],
+          "getUU5CommonElementaryMixinPropsToPass": [Function],
+          "getWarning": [Function],
+          "hasMixin": [Function],
+          "hasUU5CommonBaseMixin": [Function],
+          "hasUU5CommonElementaryMixin": [Function],
+          "hide": [Function],
+          "id": "id",
+          "isDisabled": [Function],
+          "isHidden": [Function],
+          "isRendered": [Function],
+          "isSelected": [Function],
+          "mixinRegister": Array [
+            "UU5.Common.BaseMixin",
+            "UU5.Common.ElementaryMixin",
+          ],
+          "props": Object {
+            "className": null,
+            "controlled": true,
+            "disabled": false,
+            "hidden": false,
+            "icon": "mdi-check",
+            "id": "id",
+            "mainAttrs": null,
+            "name": null,
+            "noIndex": false,
+            "parent": null,
+            "ref_": null,
+            "selected": false,
+            "style": null,
+            "textPadding": "111px",
+            "tooltip": null,
+          },
+          "refs": Object {},
+          "registerMixin": [Function],
+          "replaceByHardSpace": [Function],
+          "select": [Function],
+          "setAsyncState": [Function],
+          "setDisabledValue": [Function],
+          "setHiddenValue": [Function],
+          "setSelectedValue": [Function],
+          "shouldRender": [Function],
+          "show": [Function],
+          "showError": [Function],
+          "showWarning": [Function],
+          "state": Object {
+            "disabled": false,
+            "hidden": false,
+            "selected": false,
+          },
+          "stringToObjectType": [Function],
+          "switchChildrenToBody": [Function],
+          "toggleDisabled": [Function],
+          "toggleHidden": [Function],
+          "toggleSelected": [Function],
+          "updater": Updater {
+            "_callbacks": Array [],
+            "_renderer": ReactShallowRenderer {
+              "_context": Object {},
+              "_element": <WelcomeRow
+                className={null}
+                controlled={true}
+                disabled={false}
+                hidden={false}
+                icon="mdi-check"
+                id="id"
+                mainAttrs={null}
+                name={null}
+                noIndex={false}
+                parent={null}
+                ref_={null}
+                selected={false}
+                style={null}
+                textPadding="111px"
+                tooltip={null}
+              />,
+              "_forcedUpdate": false,
+              "_instance": [Circular],
+              "_newState": null,
+              "_rendered": <Row
+                checkGrammar={false}
+                checkHighlight={false}
+                checkSpaces={false}
+                className="uudemoapp-welcomerow"
+                content={null}
+                controlled={true}
+                disabled={false}
+                display="standard"
+                dynamic={false}
+                footer={null}
+                header={null}
+                hidden={false}
+                id="id-inner"
+                ignoreInnerHTML={false}
+                level={null}
+                mainAttrs={Object {}}
+                mode="standard"
+                name={null}
+                nestingLevel={null}
+                noIndex={false}
+                noSpacing={false}
+                parent={[Circular]}
+                pureRender={false}
+                ref_={null}
+                selected={false}
+                style={null}
+                textCorrector={false}
+                tooltip={null}
+                underline={false}
+              >
+                <Column
+                  checkGrammar={false}
+                  checkHighlight={false}
+                  checkSpaces={false}
+                  className="uudemoapp-welcomerow-iconcolumn"
+                  colWidth="xs-12 s-2"
+                  content={null}
+                  controlled={true}
+                  disabled={false}
+                  dynamic={false}
+                  footer={null}
+                  header={null}
+                  hidden={false}
+                  id={null}
+                  ignoreInnerHTML={false}
+                  level={null}
+                  mainAttrs={null}
+                  mode="standard"
+                  name={null}
+                  nestingLevel={null}
+                  noIndex={false}
+                  noSpacing={false}
+                  parent={null}
+                  pureRender={false}
+                  ref_={null}
+                  selected={false}
+                  style={null}
+                  textCorrector={false}
+                  tooltip={null}
+                  underline={false}
+                  width={null}
+                >
+                  <Icon
+                    className={null}
+                    clickable={true}
+                    controlled={true}
+                    disabled={false}
+                    hidden={false}
+                    icon="mdi-check"
+                    id={null}
+                    mainAttrs={null}
+                    name={null}
+                    nestingLevel={null}
+                    noIndex={false}
+                    parent={null}
+                    pureRender={false}
+                    ref_={null}
+                    selected={false}
+                    style={
+                      Object {
+                        "marginBottom": "-111px",
+                        "marginTop": "-111px",
+                      }
+                    }
+                    tooltip={null}
+                  />
+                </Column>
+                <Column
+                  checkGrammar={false}
+                  checkHighlight={false}
+                  checkSpaces={false}
+                  className="uudemoapp-welcomerow-text"
+                  colWidth="xs-12 s-10"
+                  content={null}
+                  controlled={true}
+                  disabled={false}
+                  dynamic={false}
+                  footer={null}
+                  header={null}
+                  hidden={false}
+                  id={null}
+                  ignoreInnerHTML={false}
+                  level={null}
+                  mainAttrs={null}
+                  mode="standard"
+                  name={null}
+                  nestingLevel={null}
+                  noIndex={false}
+                  noSpacing={false}
+                  parent={null}
+                  pureRender={false}
+                  ref_={null}
+                  selected={false}
+                  style={null}
+                  textCorrector={false}
+                  tooltip={null}
+                  underline={false}
+                  width={null}
+                />
+              </Row>,
+              "_rendering": false,
+              "_updater": [Circular],
+            },
+          },
+        },
+        "pureRender": false,
+        "ref_": null,
+        "selected": false,
+        "style": null,
+        "textCorrector": false,
+        "tooltip": null,
+        "underline": false,
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "checkGrammar": false,
+            "checkHighlight": false,
+            "checkSpaces": false,
+            "children": <Icon
+              className={null}
+              clickable={true}
+              controlled={true}
+              disabled={false}
+              hidden={false}
+              icon="mdi-check"
+              id={null}
+              mainAttrs={null}
+              name={null}
+              nestingLevel={null}
+              noIndex={false}
+              parent={null}
+              pureRender={false}
+              ref_={null}
+              selected={false}
+              style={
+                Object {
+                  "marginBottom": "-111px",
+                  "marginTop": "-111px",
+                }
+              }
+              tooltip={null}
+            />,
+            "className": "uudemoapp-welcomerow-iconcolumn",
+            "colWidth": "xs-12 s-2",
+            "content": null,
+            "controlled": true,
+            "disabled": false,
+            "dynamic": false,
+            "footer": null,
+            "header": null,
+            "hidden": false,
+            "id": null,
+            "ignoreInnerHTML": false,
+            "level": null,
+            "mainAttrs": null,
+            "mode": "standard",
+            "name": null,
+            "nestingLevel": null,
+            "noIndex": false,
+            "noSpacing": false,
+            "parent": null,
+            "pureRender": false,
+            "ref_": null,
+            "selected": false,
+            "style": null,
+            "textCorrector": false,
+            "tooltip": null,
+            "underline": false,
+            "width": null,
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "className": null,
+              "clickable": true,
+              "controlled": true,
+              "disabled": false,
+              "hidden": false,
+              "icon": "mdi-check",
+              "id": null,
+              "mainAttrs": null,
+              "name": null,
+              "nestingLevel": null,
+              "noIndex": false,
+              "parent": null,
+              "pureRender": false,
+              "ref_": null,
+              "selected": false,
+              "style": Object {
+                "marginBottom": "-111px",
+                "marginTop": "-111px",
+              },
+              "tooltip": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "checkGrammar": false,
+            "checkHighlight": false,
+            "checkSpaces": false,
+            "className": "uudemoapp-welcomerow-text",
+            "colWidth": "xs-12 s-10",
+            "content": null,
+            "controlled": true,
+            "disabled": false,
+            "dynamic": false,
+            "footer": null,
+            "header": null,
+            "hidden": false,
+            "id": null,
+            "ignoreInnerHTML": false,
+            "level": null,
+            "mainAttrs": null,
+            "mode": "standard",
+            "name": null,
+            "nestingLevel": null,
+            "noIndex": false,
+            "noSpacing": false,
+            "parent": null,
+            "pureRender": false,
+            "ref_": null,
+            "selected": false,
+            "style": null,
+            "textCorrector": false,
+            "tooltip": null,
+            "underline": false,
+            "width": null,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
