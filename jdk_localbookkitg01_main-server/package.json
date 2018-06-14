@@ -1,6 +1,6 @@
 {
   "name": "jdk_localbookkitg01_main-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Server project template for developing UAF application in Node.js",
   "license": "MIT",
   "engines": {
